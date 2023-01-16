@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Mohamed Alaaeldin
-- 👀 I’m interested in Programming competition / problem solving
-- 🌱 I’m currently learning  sql , security
-- 💞️ I’m looking to collaborate on ...
+- 🕛 Student in Sudan University of Science And Techology
+- 🤟 Studing Software Engineering right now
+- 🛎️ Specifically interested in ٍSystem Design & Architecuter field
+- 👀 I’m also interested in Programming competition / problem solving
+- 🌱 I’m currently learning design patterns
 - 📫 How to reach me /mohammed204alaa@gmail.com
 
 <!---
